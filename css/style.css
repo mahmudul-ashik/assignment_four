@@ -1,0 +1,256 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+body{
+	padding: 0;
+	margin: 0;
+	background-image:url("../images/treehouse.png");
+}
+.maindiv{
+
+}
+.elements{
+    /* margin-top: 1px; */
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color: #262A2F;
+    height: 50px;
+    /* margin-top: 5px; */
+}
+.leftnav{
+
+/* width: 34%; */
+
+/* background: green; */
+
+float: left;
+
+text-align: right;
+
+margin-top: 10px;
+}
+.leftnav ul{
+
+}
+.leftnav ul li{
+	
+list-style: none;
+	
+padding: 0 11px 0 0;
+	
+display: inline-block;
+}
+.leftnav ul li a{
+	
+text-decoration: none;
+	
+color: #ffffff;
+	
+text-transform: uppercase;
+	
+font-size: 13px;
+	
+font-weight: 500;
+	
+font-family: sans-serif;
+}
+.logo{
+
+/* width: 33%; */
+
+float: left;
+
+/* background-color: black; */
+
+margin-top: 7px;
+}
+.logo img{
+
+height: 25px;
+
+width: 100px;
+}
+.rightnav{/* width: 33%; *//* background-color: aqua; */float: left;text-align: left;margin-top: 10px;}
+.rightnav ul{
+
+}
+.rightnav ul li{list-style: none;display: inline-block;padding: 0px 0px 0px 11px;}
+.rightnav ul li a{
+	
+text-decoration: none;
+	
+color: #ffffff;
+	
+text-transform: uppercase;
+	
+font-size: 13px;
+	
+font-weight: 500;
+	
+font-family: sans-serif;
+}
+section{
+
+margin-top: 122px;
+
+height: 350px;
+
+width: 65%;
+
+margin-left: auto;
+
+margin-right: auto;
+}
+.leftSection{
+
+width: 50%;
+
+float: left;
+
+/* background-color: yellow; */
+}
+.rightSection{
+	
+width: 47%;
+	
+float: left;
+	
+background-color: #6EBD6C;
+	
+box-shadow: 2px 2px 34px 0;
+	
+border-radius: 3px;
+	
+margin-left: 24px;
+}
+.leftSection h1{
+
+color: #FFFFFE;
+
+text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 500;
+}
+.leftSection p{
+
+font-size: 15px;
+
+color: #ffffff;
+
+padding: 4px 4px 4px 0;
+}
+span{
+
+color: #6AAF68;
+
+font-size: 25px;
+
+font-weight: 500;
+}
+.leftSection ul{
+
+margin-bottom: 13px;
+}
+.leftSection ul li{
+list-style:none;
+}
+.leftSection ul li a{
+	
+text-decoration: none;
+	
+color: white;
+	
+font-size: 15px;
+	
+margin-left: 5px;
+}
+.learn{
+	
+text-decoration: none;
+	
+color: #ffffff;
+	
+background-color: #6EBD6C;
+	
+border-radius: 12px;
+	
+padding: 5px 20px 6px 20px;
+	
+font-size: 15px;
+	
+margin-left: 0px;
+	
+text-transform: uppercase;
+}
+.rightSection{
+
+}
+.rightSection h2{
+    text-align: center;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 200;
+    margin-top: 18px;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+}
+.rightSection p{
+
+color: white;
+
+text-align: center;
+
+padding: 0 9px 10px 6px;
+
+font-size: 14px;
+
+text-transform: capitalize;
+}
+.rightSection form{
+
+margin-top: 7px;
+
+width: 90%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-bottom: 13px;
+
+/* box-shadow: 0px 0 0 0 red; */
+}
+.rightSection input{
+	
+width: 90%;
+	
+padding: 4px 0px 8px 5px;
+	
+margin-bottom: 10px;
+	
+margin-left: 16px;
+	
+box-sizing: border-box;
+	
+border: 1px solid #585e65ab;
+	
+margin-right: auto;
+}
+.submitbtn{
+	
+background-color: #3c6b3cba;
+	
+color: #fff;
+	
+box-shadow: 1px 1px 5px -2px black;
+	
+/* border: 1px solid black; */
+}
+.colour{
+	color: white;
+}
